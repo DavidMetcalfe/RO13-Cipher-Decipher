@@ -1,4 +1,4 @@
-# Cipher/Decipher RO13
+# Cipher/Decipher ROT13
 This script will Cipher and Decipher to/from ROT13.
 
 No external modules required. Script written for Python 3, no guarantees for Python 2 functionality.
